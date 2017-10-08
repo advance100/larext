@@ -1,0 +1,28 @@
+{
+    "name": "advance100/larest",
+    "description": "The larest Foundation Framework.",
+    "keywords": ["larest", "cms", "foundation", "framework"],
+    "homepage": "https://dajimu.xyz",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "daqi",
+            "email": "768287201@qq.com"
+        }
+    ],
+    "autoload": {
+
+    },
+    "autoload-dev": {
+
+    },
+    "extra": {
+
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev"
+}
